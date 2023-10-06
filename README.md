@@ -50,3 +50,9 @@ Pull: To retrieve changes from a remote repository and merge them into your loca
 Remote: A reference to a Git repository on a server, often used for collaborative development.
 
 Repository: A collection of files and version history managed by Git, typically hosted on a platform like GitHub.
+
+References:
+
+GitHub. (n.d.). GitHub: Where the world builds software. GitHub.
+JetBrains. (n.d.). WebStorm: The smartest JavaScript IDE. WebStorm.
+Pro Git Book. (n.d.). Git Glossary. Git Glossary.
